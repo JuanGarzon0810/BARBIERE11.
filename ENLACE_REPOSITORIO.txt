@@ -1,0 +1,20 @@
+ENLACE DEL REPOSITORIO — Evidencia GA7-220501096-AA2-EV01
+============================================================
+
+Repositorio: https://github.com/JuanGarzon0810/BARBIERE11
+
+Este repositorio ya está configurado como "origin" en el proyecto local.
+Para publicar los últimos cambios (funcionalidades de Buscar, Actualizar,
+Eliminar y el botón Salir del Login), ejecutar desde la carpeta del
+proyecto:
+
+    git push origin main
+
+NOTA: revisa que la URL del remoto no tenga un punto al final. Puedes
+verificarla con:
+
+    git remote -v
+
+y corregirla si es necesario con:
+
+    git remote set-url origin https://github.com/JuanGarzon0810/BARBIERE11.git
